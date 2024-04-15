@@ -1,3 +1,5 @@
+package neetcode;
+
 public class ArrayConcatenation {
     public static void main(String[] args) {
         int[] numbers = {4, 6, 3, 8, 9};

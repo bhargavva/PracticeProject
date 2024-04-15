@@ -1,3 +1,5 @@
+package neetcode;
+
 public class LengthOfTheLastWord {
 
     public static void main(String[] args) {

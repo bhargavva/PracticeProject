@@ -1,3 +1,5 @@
+package neetcode;
+
 public class NthFibNo {
 
     public static void main(String[] args) {

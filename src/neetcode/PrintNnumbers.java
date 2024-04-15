@@ -1,3 +1,5 @@
+package neetcode;
+
 public class PrintNnumbers {
     public static void main(String[] args) {
         printNnums(6);

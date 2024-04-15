@@ -1,3 +1,5 @@
+package neetcode;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -10,6 +12,7 @@ public class Subsequence {
     private static boolean isSubsequence(String s, String t) {
 
         // Solution 1: Two pointer approach
+        // TimeComplexity: O(n), Space Complexity(1)
         // Step1: take two variable i, j both points the characters in the string s & t respectively.
         // Step2: compare first characters in both string points by i and j
         // Step3: If both are same increment i & j to point to the next characters in respective Strings.

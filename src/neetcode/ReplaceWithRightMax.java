@@ -1,3 +1,5 @@
+package neetcode;
+
 public class ReplaceWithRightMax {
     public static void main(String[] args) {
        int[] resultArr = replaceWithRightMax(new int[] {5, 3, 6, 1, 2});
