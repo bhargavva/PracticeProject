@@ -4,22 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ecbad0a-c0c1-475e-8504-85e2abc9767b" name="Changes" comment="Commit: DSA Practice 15-04-2024">
-      <change afterPath="$PROJECT_DIR$/src/algoprep/ArrayUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algoprep/DistinctElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algoprep/FrequencyQueries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algoprep/NonRepeatingElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algoprep/PrefixSum.java" afterDir="false" />
+    <list default="true" id="2ecbad0a-c0c1-475e-8504-85e2abc9767b" name="Changes" comment="Commit 2: DSA Practice 15-04-2024">
+      <change afterPath="$PROJECT_DIR$/src/algoprep/foundation/loops/Factors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoprep/foundation/loops/IsPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoprep/foundation/loops/PrintDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algoprep/foundation/loops/PrintNnums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/neetcode/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/neetcode/PascalsTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/neetcode/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/neetcode/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/neetcode/UniqueEmailAddress.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayConcatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetcode/ArrayConcatenation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContainsDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetcode/ContainsDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LengthOfTheLastWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetcode/LengthOfTheLastWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetcode/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NthFibNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetcode/NthFibNo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrintNnumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetcode/PrintNnumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReplaceWithRightMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetcode/ReplaceWithRightMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Subsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetcode/Subsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ValidAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetcode/ValidAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algoprep/NonRepeatingElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algoprep/NonRepeatingElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/neetcode/ContainsDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetcode/ContainsDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/neetcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetcode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/neetcode/ValidAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/neetcode/ValidAnagram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,11 +71,30 @@
       <option name="project" value="LOCAL" />
       <updated>1713163387476</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit 2: DSA Practice 15-04-2024">
+      <option name="closed" value="true" />
+      <created>1713197068349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713197068349</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit: DSA Practice 15-04-2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit: DSA Practice 15-04-2024" />
+    <MESSAGE value="Commit 2: DSA Practice 15-04-2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 2: DSA Practice 15-04-2024" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

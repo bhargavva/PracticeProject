@@ -20,13 +20,13 @@ public class NonRepeatingElement {
         for (int i : inputArray) {
             arrHashMap.put(i, arrHashMap.getOrDefault(i, 0)+1);
         }
-
+        // Find all the non-repeating elements in the array.
         for (int i : arrHashMap.keySet()) {
             if (arrHashMap.get(i) == 1) {
                 System.out.println(i);
             }
         }
-
+        // Find the first non-repeating element in the array
 //        for (int i = 0; i < inputArray.length; i++) {
 //            if(arrHashMap.get(inputArray[i]) == 1){
 //                return inputArray[i];

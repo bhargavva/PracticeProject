@@ -18,6 +18,7 @@ public class ContainsDuplicates {
         // If that element is not present add it
         // If that element is present already break and return true
         // If all the elements are unique return false.
+
 //        Map<Integer, Integer> arrHashMap = new HashMap<>(); // O(n) // O(n)
 //        for (int i :
 //                arr) {
